@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*, *.* !*.min.js</mask>
+      <mask>*,  !*.min.js</mask>
+      <mask>* !*.min.js</mask>
+      <mask>*, * !*.min.js</mask>
+      <mask>*, *. !*.min.js</mask>
+      <mask>*, *.!*.min.js</mask>
+      <mask>*, *!*.min.js</mask>
+      <mask>*, !***.min.js</mask>
+      <mask>*, !**.min.js</mask>
+      <mask>*, !*.min.js</mask>
+      <mask>*.</mask>
+      <mask>*.js.</mask>
+      <mask>*.js</mask>
+      <mask>*.js,</mask>
+      <mask>*.js, *</mask>
+      <mask>*.js, *.</mask>
+      <mask>*.js, *.h</mask>
+      <mask>*.js, *.ht</mask>
+      <mask>*.js, *.html</mask>
+      <mask>*.js, *.html,</mask>
+      <mask>*.js, *.html,</mask>
+      <mask>*</mask>
+      <mask>!</mask>
+      <mask>!*.js</mask>
+      <mask>!*.j</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.min</mask>
+      <mask>!*.min.</mask>
+      <mask>!*.min.js</mask>
+    </recentFileMasks>
+  </component>
+</application>
