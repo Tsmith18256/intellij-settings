@@ -3,8 +3,8 @@
     <option name="customScope" value="Non-Generated Files" />
     <option name="defaultScopeName" value="Non-Generated Files" />
     <option name="SEARCH_SCOPE" value="Non-Generated Files" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*, *.* !*.min.js</mask>
       <mask>*,  !*.min.js</mask>
       <mask>* !*.min.js</mask>
       <mask>*, * !*.min.js</mask>
@@ -25,7 +25,6 @@
       <mask>*.js, *.html</mask>
       <mask>*.js, *.html,</mask>
       <mask>*.js, *.html,</mask>
-      <mask>*</mask>
       <mask>!</mask>
       <mask>!*.js</mask>
       <mask>!*.j</mask>
@@ -34,6 +33,8 @@
       <mask>!*.min</mask>
       <mask>!*.min.</mask>
       <mask>!*.min.js</mask>
+      <mask>*</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
