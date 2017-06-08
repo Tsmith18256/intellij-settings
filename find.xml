@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Non-Auto Generated" />
     <option name="defaultScopeName" value="Non-Auto Generated" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Non-Auto Generated" />
     <recentFileMasks>
       <mask>*,  !*.min.js</mask>
